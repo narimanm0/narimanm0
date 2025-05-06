@@ -6,7 +6,7 @@
 <p>🛠️ Skilled in Python, Pandas, scikit-learn, SQL</p> 
 <p>📊 Working on smart systems, dashboards, and predictive models</p>
 <p>🏅 Multiple scholarship holder | Active in tech clubs and global forums</p>
-📧 Any question? Write me narimanmammadovv@gmail.com
+📧 Any question? Write me <a href="narimanmammadovv@gmail.com">narimanmammadovv@gmail.com</a>
 
 <h2>🚀 Languages and Tools I Use</h2>
 
