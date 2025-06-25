@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Nariman Mammadov</h1>
+<h1>Hi, I'm Nariman Mammadov!</h1>
 <h2> About Me </h2>
 <p>🎓 Computer Science student at ADA University</p>
 <p>💡 Passionate about data science, machine learning, and building real-world solution</p>
