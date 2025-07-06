@@ -1,7 +1,7 @@
 
 <h1>Hi, I am Nariman Mammadov!</h1>
 <h2> About Me </h2>
-<p>🎓 CS student at ADA University</p>
+<p>🎓 CS student @ ADA University</p>
 <p>💡 Passionate about data science, machine learning, and building real-world solution</p>
 <p>🛠️ Skilled in Python, Pandas, scikit-learn, SQL</p> 
 <p>📊 Working on smart systems, dashboards, and predictive models</p>
