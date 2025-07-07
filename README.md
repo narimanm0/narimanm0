@@ -3,7 +3,7 @@
 <h2> About Me </h2>
 <p>🎓 CS student @ ADA University</p>
 <p>💡 Passionate about data science, machine learning, and building real-world solution</p>
-<p>🛠️ Skilled in Python, Pandas, scikit-learn, SQL</p> 
+<p>🛠️ Skilled in Python, Pandas, scikit-learn, SQL, PL/SQL</p> 
 <p>📊 Working on smart systems, dashboards, and predictive models</p>
 <p>🏅 Multiple scholarship holder | Active in tech clubs and global forums</p>
 📧 Any question? Write me <a href="narimanmammadovv@gmail.com">narimanmammadovv@gmail.com</a>
