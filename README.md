@@ -1,6 +1,8 @@
 
-<h1>Hi, I am Nariman Mammadov!</h1>
-<h2> About Me </h2>
+<div align='center'>
+  <h1>Hi, I am Nariman Mammadov!</h1>
+</div>
+<h3> About Me </h3>
 <p>🎓 CS student @ ADA University</p>
 <p>💡 Passionate about data science, machine learning, and building real-world solution</p>
 <p>🛠️ Skilled in Python, SQL, PL/SQL, Oracle</p> 
