@@ -5,7 +5,7 @@
 <h3> About Me </h3>
 <p>🎓 CS student @ ADA University</p>
 <p>💡 Passionate about data science, machine learning, and building real-world solution</p>
-<p>🛠️ Skilled in Python, SQL, PL/SQL, Oracle</p> 
+<p>🛠️ Skilled in Python, TensorFlow, Keras, SQL, PL/SQL, Oracle</p> 
 <p>📊 Working on smart systems, dashboards, and predictive models</p>
 <p>🏅 Multiple scholarship holder | Active in tech clubs and global forums</p>
 📧 Any question? Write me <a href="narimanmammadovv@gmail.com">narimanmammadovv@gmail.com</a>
