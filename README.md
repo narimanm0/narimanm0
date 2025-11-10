@@ -4,10 +4,10 @@
 </div>
 <h3> About Me </h3>
 <p>🎓 CS student @ ADA University</p>
-<p>💡 Skilled in data science, machine learning, and building real-world solution</p>
-<p>🛠️ Skilled in Python, TensorFlow, Keras, SQL, PL/SQL, Oracle</p> 
+<p>💡 Data Science, Machine Learning, Deep Learning</p>
+<p>🛠️ Python, TensorFlow, Keras, SQL, PL/SQL, Oracle</p> 
 <p>📊 Working on smart systems, dashboards, and predictive models</p>
-<p>🏅 Multiple scholarship holder
+<p>🏅 Multiple scholarship holder</p>
 📧 Any question? Write me <a href="narimanmammadovv@gmail.com">narimanmammadovv@gmail.com</a>
 
 <h2>🚀 Languages and Tools I Use</h2>
