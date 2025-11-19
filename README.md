@@ -8,6 +8,7 @@
 <p>🛠️ Python, TensorFlow, Keras, SQL, PL/SQL, Oracle</p> 
 <p>📊 Working on smart systems, dashboards, and predictive models</p>
 <p>🏅 Multiple scholarship holder</p>
+<p><a  target="_blank"  href="https://drive.google.com/drive/folders/1RcQ8O1tUnNvqOfq0nkUoS6sZIos3PsuX?usp=sharing"  style="display: inline-block;">Here are my Certificates!</a></p>
 📧 Any question? Write me <a href="narimanmammadovv@gmail.com">narimanmammadovv@gmail.com</a>
 
 <h2>🚀 Languages and Tools I Use</h2>
