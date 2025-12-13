@@ -5,7 +5,7 @@
 <h3> About Me </h3>
 <p>🎓 CS student @ ADA University</p>
 <p>💡 Data Science, Machine Learning, Deep Learning</p>
-<p>🛠️ Python, TensorFlow, Keras, SQL, PL/SQL, Oracle</p> 
+<p>🛠️ Python, TensorFlow, Keras, SQL, PL/SQL, Oracle, Dataiku, n8n</p> 
 <p>📊 Working on smart systems, dashboards, and predictive models</p>
 <p>🏅 Multiple scholarship holder</p>
 <p><a  target="_blank"  href="https://drive.google.com/drive/folders/1RcQ8O1tUnNvqOfq0nkUoS6sZIos3PsuX?usp=sharing"  style="display: inline-block;" rel="noopener noreferrer">Here are my Certificates!</a></p>
