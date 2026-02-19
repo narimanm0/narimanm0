@@ -3,7 +3,7 @@
   <h1>Hi, I am Nariman Mammadov!</h1>
 </div>
 <h3> About Me </h3>
-<p>🎓 CS student @ ADA University</p>
+<p>🎓 Senior CS student @ ADA University</p>
 <p>💡 Data Science, Machine Learning, Deep Learning</p>
 <p>🛠️ Python, TensorFlow, Keras, SQL, Oracle, Dataiku, n8n, Google Cloud, BigQuery</p> 
 <p>📊 Working on smart systems, dashboards, and predictive models</p>
